@@ -8,7 +8,7 @@ A Top 5 Bank Fintech Engneer is recently promoted to act as the lead developer o
 
 ## Solution
 - - - 
-[Click to interact with the live Pychain Ledger app online](hhttps://github.com/dataprofessor/penguins-heroku)
+[Click to interact with this Pychain Ledger app](hhttps://github.com/dataprofessor/penguins-heroku)
 - - -
 ### The 4 sections that compose Pychain ledger:  
 
@@ -82,10 +82,8 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 #### Note  
 
-<sup><a id="ref001">1</a></sup> dataprofessor (2021-06-05). Penguins web app deployed on Heroku. Retrieved from [github.com](hhttps://github.com/dataprofessor/penguins-heroku).
+<sup><a id="ref001">1</a></sup> dataprofessor (2021-06-05). Penguins web app deployed on Heroku. Retrieved from [github.com](https://github.com/dataprofessor/penguins-heroku).
 
 <sup><a id="ref002">2</a></sup> Streamlit.io: st.snow, v1.8.0. Retrieved from [docs.streamlit.io](https://docs.streamlit.io/library/api-reference/status/st.snow).
-
-
 
 </details>
