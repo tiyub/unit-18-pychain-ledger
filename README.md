@@ -8,7 +8,7 @@ A Top 5 Bank Fintech Engneer is recently promoted to act as the lead developer o
 
 ## Solution
 - - - 
-[Click to interact with this Pychain Ledger app](hhttps://github.com/dataprofessor/penguins-heroku)
+[Click to interact with this Pychain Ledger app](https://unit-18-pychain-ledger.herokuapp.com/)
 - - -
 ### The 4 sections that compose Pychain ledger:  
 
