@@ -7,9 +7,9 @@
 A Top 5 Bank Fintech Engneer is recently promoted to act as the lead developer on the decentralized finance team. The task to build a blockchain-based ledger system, with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 ## Solution
-- - - 
+<!-- - - - 
 [Click to interact with this Pychain Ledger app](https://unit-18-pychain-ledger.herokuapp.com/)
-- - -
+- - - -->
 ### The 4 sections that compose Pychain ledger:  
 
 1. Create a Record Data Class
