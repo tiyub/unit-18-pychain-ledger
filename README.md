@@ -86,4 +86,12 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 <sup><a id="ref002">2</a></sup> Streamlit.io: st.snow, v1.8.0. Retrieved from [docs.streamlit.io](https://docs.streamlit.io/library/api-reference/status/st.snow).
 
+<sup><a id="ref003">3</a></sup> Gareth Morinan (2021-04-26). 5 ways to customise your Streamlit UI. Retrieved from [towardsdatascience.com](https://towardsdatascience.com/5-ways-to-customise-your-streamlit-ui-e914e458a17c).
+
+<sup><a id="ref004">4</a></sup> Austin Chen (2020-10-08). New layout options for Streamlit. Retrieved from [blog.streamlit.io](https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/).
+
+<sup><a id="ref005">5</a></sup> Fanilo Andrianasolo. Render Static Html With Components. Retrieved from [streamlit-components-tutorial.netlify.app](https://streamlit-components-tutorial.netlify.app/hello-world/static-render/).
+
+<sup><a id="ref006">6</a></sup> Zulko (2022-03-20). MoviePy is a Python library for video editing, can read and write all the most common audio and video formats. Retrieved from [pythonrepo.com](https://pythonrepo.com/repo/Zulko-moviepy-python-video).
+
 </details>
