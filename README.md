@@ -7,9 +7,9 @@
 A Top 5 Bank Fintech Engneer is recently promoted to act as the lead developer on the decentralized finance team. The task to build a blockchain-based ledger system, with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 ## Solution
-<!-- - - - 
+
 [Click to interact with this Pychain Ledger app](https://unit-18-pychain-ledger.herokuapp.com/)
-- - - -->
+
 ### The 4 sections that compose Pychain ledger:  
 
 1. Create a Record Data Class
@@ -93,5 +93,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 <sup><a id="ref005">5</a></sup> Fanilo Andrianasolo. Render Static Html With Components. Retrieved from [streamlit-components-tutorial.netlify.app](https://streamlit-components-tutorial.netlify.app/hello-world/static-render/).
 
 <sup><a id="ref006">6</a></sup> Zulko (2022-03-20). MoviePy is a Python library for video editing, can read and write all the most common audio and video formats. Retrieved from [pythonrepo.com](https://pythonrepo.com/repo/Zulko-moviepy-python-video).
+
+<sup><a id="ref007">7</a></sup> Gold, kassius_klay* (2022-03-20). Why does the simplest streamlit example errors out? Retrieved from [stackoverflow.com]](https://stackoverflow.com/questions/71652091/why-does-the-simplest-streamlit-example-errors-out). *If cloud/infrastructure errors-out, change the pinned dependancy to a different version, irrespevtive of the pinned version in the requirments.txt having been a recently working version.
 
 </details>
