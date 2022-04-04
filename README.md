@@ -94,6 +94,6 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 <sup><a id="ref006">6</a></sup> Zulko (2022-03-20). MoviePy is a Python library for video editing, can read and write all the most common audio and video formats. Retrieved from [pythonrepo.com](https://pythonrepo.com/repo/Zulko-moviepy-python-video).
 
-<sup><a id="ref007">7</a></sup> Gold, kassius_klay* (2022-03-20). Why does the simplest streamlit example errors out? Retrieved from [stackoverflow.com]](https://stackoverflow.com/questions/71652091/why-does-the-simplest-streamlit-example-errors-out). *If cloud/infrastructure errors-out, change the pinned dependancy to a different version, irrespevtive of the pinned version in the requirments.txt having been a recently working version.
+<sup><a id="ref007">7</a></sup> Gold, kassius_klay* (2022-03-20). Why does the simplest streamlit example errors out? Retrieved from [stackoverflow.com]](https://stackoverflow.com/questions/71652091/why-does-the-simplest-streamlit-example-errors-out). *If cloud infrastructure errors-out, change the pinned dependancy to a different version, irrespevtive of the pinned version in the requirments.txt having been a recently working version.
 
 </details>
